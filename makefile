@@ -19,4 +19,4 @@ README: guessinggame.sh
         echo "1. First run the makefile using - ***make README***" >> README.md
         echo "2. Now run the main shell file using - ***bash guessinggame.sh***" >> README.md
         echo "README HAS BEEN CREATED AUTOMATICALLY"
-        echo "RUN THE BASH SCRIPT NOW"
+        echo "RUN THE BASH SCRIPT NOW :)"
