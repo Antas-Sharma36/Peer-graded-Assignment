@@ -1,3 +1,4 @@
+#!/bin/bash
 total_files=$(ls | wc -l)
 # And for the beginning take -
 guessed_no=$(($total_files+1))
