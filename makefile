@@ -16,5 +16,5 @@ README: guessinggame.sh
         echo "\nPlease note that I worked on this project in a Linux virtualmachine and published it using a windows machine" >> README.md
         echo "\nThere might be a slight difference as I am editing this makefile in my Windows machine" >> README.md
         echo "\nTherefore, it might give some CRLF error or something, please check using this command - " >> README.md
-        echo "*cat -e -t -v makefile_name*" >> README.md
+        echo " *cat -e -t -v makefile_name* " >> README.md
         echo "\nAnd rectify according to your machine" >> README.md
